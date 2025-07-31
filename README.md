@@ -52,7 +52,7 @@ npm install
 ### ▶️ Run the App
 
 ```bash
-npm run dev
+npm run dev 
 ```
 
 App will be live at `http://localhost:5173`
